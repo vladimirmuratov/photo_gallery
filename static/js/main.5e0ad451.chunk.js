@@ -1,0 +1,2 @@
+(this["webpackJsonpphoto-studio-app"]=this["webpackJsonpphoto-studio-app"]||[]).push([[0],{31:function(t,e,c){"use strict";c.r(e);var s=c(0),n=c.n(s),o=c(10),i=c.n(o),j=c(27),r=c(29),p=c(30),a=c(1),d=function(){return Object(a.jsxs)("div",{children:[Object(a.jsx)(j.a,{}),Object(a.jsx)(r.a,{})]})};i.a.render(Object(a.jsx)(n.a.StrictMode,{children:Object(a.jsx)(p.a,{children:Object(a.jsx)(d,{})})}),document.getElementById("root"))}},[[31,1,2]]]);
+//# sourceMappingURL=main.5e0ad451.chunk.js.map
